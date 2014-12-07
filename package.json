@@ -1,0 +1,16 @@
+{
+    "name": "google-maps-travel-time",
+    "author": "David Sawyer <davidsawyer10@gmail.com>",
+    "description": "Scrape google maps to get average travel time at any time of any day of the week",
+    "version": "1.0.0",
+
+    "dependencies": {
+        "request": "2.33.0",
+        "cheerio": "0.13.1"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/davidsawyer/google-maps-travel-time.git"
+    }
+}
